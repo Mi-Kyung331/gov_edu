@@ -1,4 +1,4 @@
-package ch01_20250514.entity;
+package entity;
 /*
     entity 패키지 생성 후 User 클래스를 정의 > 사용자 정보를 저장하기 위해
     User 클래스의 속성은 아래와 같다

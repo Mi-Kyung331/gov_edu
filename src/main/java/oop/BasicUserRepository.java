@@ -1,4 +1,4 @@
-package ch01_20250514.oop;
+package oop;
 
 public class BasicUserRepository implements UserRepository {
 

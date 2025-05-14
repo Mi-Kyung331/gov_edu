@@ -1,4 +1,4 @@
-package ch01_20250514.classStudy;
+package classStudy;
 
 import java.util.ArrayList;
 import java.util.List;
